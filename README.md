@@ -1,5 +1,7 @@
 🎓 College Discovery Platform
+
 Find the best engineering institutes in Maharashtra.
+
 🌟 Project Purpose
 Choosing the right college is a major decision for students. This platform was created to simplify that journey by providing a fast, clean, and intuitive way to explore engineering institutes.
 
